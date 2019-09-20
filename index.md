@@ -1,51 +1,70 @@
-## Welcome to GitHub Pages
+# Matériel complémentaire pour SAGEO 2019 
+Annexes de l'article *Estimer l'apport de la phénologie dans la classification des essences forestières* par Nicolas Karasiak, Jean-François Dejoux, Claude Monteil and David Sheeren.
+## Carte intéractive des essences cartographiées en 2018
 
-You can use the [editor on GitHub](https://github.com/lennepkade/supplementary_sageo2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Embed map here]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-<table><tr>
-  <td><img src='figures/B2.jpg'></img></td>
-  <td><img src='figures/B3.jpg'></img></td>
+## Comportement spectral des feuillus en 2018 
+<table>
+  <tr>
+    <td><img src='figures/B2_fr.jpg'></td>
+    <td><img src='figures/B3.jpg'></td>
   </tr>
   <tr>
-    <td><img src='figures/B4.jpg'></img></td>
-    <td><img src='figures/B8.jpg'></img></td>
+    <td><img src='figures/B4.jpg'></td>
+    <td><img src='figures/B8.jpg'></td>
   </tr>
   <tr>
-  <td><img src='figures/B11.jpg'></img></td>
-  <td><img src='figures/B12.jpg'></img></td>
+    <td><img src='figures/B5.jpg'></td>
+    <td><img src='figures/B6.jpg'></td>
   </tr>
-  </table>
+  <tr>
+    <td><img src='figures/B11.jpg'></td>
+    <td><img src='figures/B12.jpg'></td>
+  </tr>
+ </table>
   
-### Markdown
+## Dates sélectionnées
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Classification 1 feuillus contre l'ensemble des feuillus
+Classification à deux classes.
+<table>
+  <tr>
+    <th>2017</th>
+    <th>2018</th>
+  </tr>
+  <tr>
+    <td><img src='figures/1vsallbroadleaf_2017_fr.jpg'></td>
+    <td><img src='figures/1vsallbroadleaf_2018_fr.jpg'></td>
+  </tr>
+</table>
 
-```markdown
-Syntax highlighted code block
+### Classification des 7 feuillus simultanément
+Classification à 7 classes.
+<table>
+  <tr>
+    <th>2017</th>
+    <th>2018</th>
+  </tr>
+  <tr>
+    <td><img src='figures/indicebroadleaf_2017_fr.jpg.jpg'></td>
+    <td><img src='figures/indicebroadleaf_2018_fr.jpg.jpg'></td>
+  </tr>
+</table>
 
-# Header 1
-## Header 2
-### Header 3
+### 
+## Stabilité de la cartographie
 
-- Bulleted
-- List
+Évolution de la part des feuillus prédite dans la cartographie globale en 2017 et 2018.
 
-1. Numbered
-2. List
+<table>
+  <tr>
+    <th>2017</th>
+    <th>2018</th>
+  </tr>
+  <tr>
+    <td><img src='figures/shareSpecies_2017.jpg'></td>
+    <td><img src='figures/shareSpecies_2018.jpg'></td>
+  </tr>
+</table>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lennepkade/supplementary_sageo2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -23,6 +23,7 @@ La cartographie des essences forestières de 2018 présentée ci-dessous a été
 <a href='map/index.html'><img src='map/2018_map_sample.png'></a>
 
 ## Comportement spectral moyen des feuillus en 2018 
+
 <table>
   <tr>
     <td><img src='figures/B2_fr.jpg'></td>

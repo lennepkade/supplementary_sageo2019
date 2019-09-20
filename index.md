@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/lennepkade/supplementary_s
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+| | |
+|-|-|
+![figures/B2.jpg](figures/B2_fr.jpg) | ![figures/B3.jpg](figures/B3.jpg)
+![figures/B4.jpg](figures/B4.jpg) | ![figures/B8.jpg](figures/B8.jpg)
+![figures/B11.jpg](figures/B11.jpg) | ![figures/B12.jpg](figures/B12.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

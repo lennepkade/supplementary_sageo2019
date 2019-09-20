@@ -5,15 +5,19 @@ You can use the [editor on GitHub](https://github.com/lennepkade/supplementary_s
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <table><tr>
-  <td>![figures/B2.jpg](figures/B2_fr.jpg)</td>
-  <td>![figures/B3.jpg](figures/B3.jpg)</td>
+  <td><img src='figures/B2.jpg'></img></td>
+  <td><img src='figures/B3.jpg'></img></td>
   </tr>
   <tr>
-    <td>![figures/B4.jpg](figures/B4.jpg)</td>
-    <td>![figures/B8.jpg](figures/B8.jpg)</td>
+    <td><img src='figures/B4.jpg'></img></td>
+    <td><img src='figures/B8.jpg'></img></td>
+  </tr>
+  <tr>
+  <td><img src='figures/B11.jpg'></img></td>
+  <td><img src='figures/B12.jpg'></img></td>
   </tr>
   </table>
-  ![figures/B11.jpg](figures/B11.jpg) | ![figures/B12.jpg](figures/B12.jpg)
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -4,7 +4,7 @@ Annexes de l'article *Estimer l'apport de la phénologie dans la classification 
 
 [Embed map here]
 
-## Comportement spectral des feuillus en 2018 
+## Comportement spectral moyen des feuillus en 2018 
 <table>
   <tr>
     <td><img src='figures/B2_fr.jpg'></td>
@@ -27,7 +27,7 @@ Annexes de l'article *Estimer l'apport de la phénologie dans la classification 
 ## Dates sélectionnées
 
 ### Classification 1 feuillus contre l'ensemble des feuillus
-Classification à deux classes.
+Classification à 2 classes.
 <table>
   <tr>
     <th>2017</th>
@@ -52,9 +52,9 @@ Classification à 7 classes.
   </tr>
 </table>
 
-### 
 ## Stabilité de la cartographie
 
+### Stabilité des feuillus 
 Évolution de la part des feuillus prédite dans la cartographie globale en 2017 et 2018.
 
 <table>
@@ -67,4 +67,22 @@ Classification à 7 classes.
     <td><img src='figures/shareSpecies_2018.jpg'></td>
   </tr>
 </table>
+
+### Stabilité de l'ensemble des essences
+
+
+Évolution de la part des feuillus prédite dans la cartographie globale en 2017 et 2018.
+Avec ou sans SFS (Sélection de Caractéristiques, en anglais Sequential Forward Selection).
+
+<table>
+  <tr>
+    <th>Sans SFS</th>
+    <th>Avec SFS</th>
+  </tr>
+  <tr>
+    <td><img src='shareSFSSITS_noSFS.jpg'></td>
+    <td><img src='shareSFSSITS.jpg'></td>
+  </tr>
+</table>
+
 

@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 <style>
   @media(max-width: 480px) {
   td {

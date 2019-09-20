@@ -47,8 +47,8 @@ Classification à 7 classes.
     <th>2018</th>
   </tr>
   <tr>
-    <td><img src='figures/indicebroadleaf_2017_fr.jpg.jpg'></td>
-    <td><img src='figures/indicebroadleaf_2018_fr.jpg.jpg'></td>
+    <td><img src='figures/indicebroadleaf_2017_fr.jpg'></td>
+    <td><img src='figures/indicebroadleaf_2018_fr.jpg'></td>
   </tr>
 </table>
 

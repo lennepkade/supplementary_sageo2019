@@ -1,6 +1,6 @@
-var listOfSpecies = ['Silver birch','Oak','Red oak','Douglas fir','Eucalyptus','European Ash','Aspen','Corsican pine','Maritime pine','Black pine','Black locust','Silver fir','Willow','Cypress'];
+/* var listOfSpecies = ['Silver birch','Oak','Red oak','Douglas fir','Eucalyptus','European Ash','Aspen','Corsican pine','Maritime pine','Black pine','Black locust','Silver fir','Willow','Cypress']; */
 var listOfSpecies = ['Bouleau','Chêne','Chêne rouge','Sapin douglas','Eucalyptus','Frêne','Peuplier','Pin laricio','Pin maritime','Pin noir','Robinier','Sapin blanc','Saule','Cyprès'];
-var colorOfSpecies = ["#d7d79e", "#267300", "#ff0000","#00a9e6","#d3ffbe","#4ce600","#e6e600","#a900e6","#e600a9","#005ce6","#784c0b","#00c5ff","#d1ff73","#1f7174"];
+var colorOfSpecies = ["#d7d79e", "#267300", "#ff0000","#00a9e6","#d3ffbe","#4ce600","#e6e600","#a900e6","#e600a9","#005ce6","#784c0b","#00c5ff","#d1ff73","#1f7174","#000000"];
 var newOrder = [0,1,2,6,5,10,12,4,7,8,9,11,3,13];
 let map = L.map('map',{tap: !L.Browser.mobile}).setView([43.45,1.2],12);
 var marker;
@@ -15,13 +15,13 @@ var OSM = L.tileLayer(url, {
 
 **/
 
-plotty.addColorScale("speciesMap", colorOfSpecies, [0,1/13,2/13,3/13,4/13,5/13,6/13,7/13,8/13,9/13,10/13,11/13,12/13,1]);
+plotty.addColorScale("speciesMap", colorOfSpecies, [0,1/14,2/14,3/14,4/14,5/14,6/14,7/14,8/14,9/14,10/14,11/14,12/14,13/14,1]);
 
 var windSpeed = L.leafletGeotiff(
         url='2018_map.tif',
         options={band: 0,
             displayMin: 1,
-            displayMax: 14,
+            displayMax: 15,
             name: 'tree species map',
             colorScale: "speciesMap",
             clampLow: false,

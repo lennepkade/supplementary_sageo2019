@@ -90,8 +90,8 @@ Avec ou sans SFS (Sélection de Caractéristiques, en anglais Sequential Forward
     <th>Avec SFS</th>
   </tr>
   <tr>
-    <td><img src='shareSFSSITS_noSFS.jpg'></td>
-    <td><img src='shareSFSSITS.jpg'></td>
+    <td><img src='figures/shareSFSSITS_noSFS.jpg'></td>
+    <td><img src='figures/shareSFSSITS.jpg'></td>
   </tr>
 </table>
 

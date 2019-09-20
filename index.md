@@ -2,7 +2,9 @@
 Annexes de l'article *Estimer l'apport de la phénologie dans la classification des essences forestières* par Nicolas Karasiak, Jean-François Dejoux, Claude Monteil and David Sheeren.
 ## Carte intéractive des essences cartographiées en 2018
 
-[Embed map here]
+La cartographie des essences forestières de 2018 présentée ci-dessous a été générée à partir des 44 meilleures bandes de la série temporelle Sentinel-2 de 2018 :
+
+<a href='map/index.html'><img src='map/2018_map_sample.png'></a>
 
 ## Comportement spectral moyen des feuillus en 2018 
 <table>

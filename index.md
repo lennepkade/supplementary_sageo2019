@@ -68,7 +68,7 @@ Classification à 7 classes.
 ## Stabilité de la cartographie
 
 ### Stabilité des feuillus 
-Évolution de la part des feuillus prédite dans la cartographie globale en 2017 et 2018.
+Évolution de la part des feuillus prédits dans la cartographie globale en 2017 et 2018.
 
 <table>
   <tr>
@@ -84,7 +84,7 @@ Classification à 7 classes.
 ### Stabilité de l'ensemble des essences
 
 
-Évolution de la part des feuillus prédite dans la cartographie globale en 2017 et 2018.
+Évolution de la part par essence dans la cartographie de 2017 et 2018.
 Avec ou sans SFS (Sélection de Caractéristiques, en anglais Sequential Forward Selection).
 
 <table>

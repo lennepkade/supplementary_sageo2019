@@ -18,7 +18,7 @@ Annexes de l'article *Estimer l'apport de la phénologie dans la classification 
 
 ## Carte interactive des essences cartographiées en 2018
 
-La cartographie des essences forestières de 2018 présentée ci-dessous a été générée à partir des 44 meilleures bandes de la série temporelle Sentinel-2 de 2018 :
+La cartographie des essences forestières de 2018 présentée en aperçu ci-dessous a été générée à partir des 44 meilleures bandes de la série temporelle Sentinel-2 de 2018. Cliquez sur l'image pour accéder à la version interactive :
 
 <a href='map/index.html'><img src='map/2018_map_sample.png'></a>
 

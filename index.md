@@ -74,7 +74,7 @@ Classification à 7 classes.
 ## Stabilité de la cartographie
 
 ### Stabilité des feuillus 
-Évolution de la part des feuillus prédits dans la cartographie globale en 2017 et 2018.
+Évolution de la part des feuillus prédits dans la cartographie globale réalisée avec la meilleure sélection de caractéristiques en 2017 et 2018.
 
 <table>
   <tr>

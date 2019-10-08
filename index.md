@@ -12,14 +12,8 @@ title-heading: false
 # Matériel complémentaire pour SAGEO 2019 
 Annexes de l'article *Estimer l'apport de la phénologie dans la classification des essences forestières* par Nicolas Karasiak, Jean-François Dejoux, Claude Monteil and David Sheeren.
 
-
- {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
- {% include toc.html html=content %}
-
 ---
-{% include toc.html html=content %}
- 
-  {{ content }} 
+{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
 ---
 
 ## Carte interactive des essences cartographiées en 2018
